@@ -17,7 +17,7 @@ may be individual contributors on their own teams, but will act as leaders for t
 
 ###Program Sponsor###
 Every agile workforce program needs one or more sponsors to help a program team gather the necessary information and to approve of their efforts. These sponsors will lower the internal barriers to assist the program team in meeting with other stakeholders around the agency and review the work products that team creates as it designs and plans the program.  While it is helpful to have a sponsor in the Administrator's office or the Office of the Secretary of your agency, successful
-agile workforce initiatives have started out of many different offices -- any supervisor who understands the need For
+agile workforce initiatives have started out of many different offices -- any supervisor who understands the need for
 a program can act as a sponsor, authorize staff time and help recruit additional supporters and team members.
 
 ###Program Team Members###
