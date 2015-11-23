@@ -48,7 +48,7 @@ Leaders of successful pilot programs within the federal government reported that
 * Current workforce is disengaged and their skills are underutilized.
 * Inability to recruit a modern workforce to tackle the current needs of the government
 * Employees unable to properly practice or use skills, which then degrade over time, or the employees end up leaving public service
-* Employment Viewpoint Survey (EVS) Scores show employees feel their ideas are not valued
+* Employment Viewpoint Survey (EVS) Scores show employees feel their ideas are not valued.
 Your new program team can use problem statements to justify your efforts as you work to create a new program that is a good fit for your team’s culture and organization’s mission.
 
 ##Identify stakeholders and research the problem##
