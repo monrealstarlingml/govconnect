@@ -38,7 +38,7 @@ Teams have found that having a clear checklist helped them set up their program 
 
 * Evaluate using Open Opportunities to host both the pilot and the program
 * If Open Opportunities doesn't seem right for you, the Open Opps team want to hear from you!
-* If you feel you must build your own Research the available technology platforms made available by agencies’ IT department
+* If you feel you must build your own research the available technology platforms made available by agencies’ IT department
 
 *Identify Actual Projects* (see [Step 4](projects.html))
 
