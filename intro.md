@@ -59,7 +59,7 @@ Teams have found that having a clear checklist helped them set up their program 
 * Reflect on your goal, do you believe your program will meet it?
 * Do you have automated metrics in place?
 * Do you have a plan for collecting qualitative metrics?
-* Do you believe that if all of these metrics are positive you will have met your goal?  or is there something else you should be measuring?  (I don't know is an okay answer at this point. You typically need to run a few pilot sessions or scale to a sustainable community before you can finalize appropriate metrics.)
+* Do you believe that if all of these metrics are positive you will have met your goal?  Or is there something else you should be measuring?  (I don't know is an okay answer at this point. You typically need to run a few pilot sessions or scale to a sustainable community before you can finalize appropriate metrics.)
 
 *Pre-Launch Check*  
 
